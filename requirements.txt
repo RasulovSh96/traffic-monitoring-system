@@ -1,4 +1,7 @@
-Plaintext
 streamlit
+cv2
+pandas
+matplotlib.pyplot
 ultralytics
-opencv-python-headless
+tempfile
+os
