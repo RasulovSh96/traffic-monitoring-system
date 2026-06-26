@@ -1,7 +1,3 @@
 streamlit
-cv2
-pandas
-matplotlib.pyplot
 ultralytics
-tempfile
-os
+opencv-python-headless
